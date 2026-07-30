@@ -1,3 +1,5 @@
 /venv
 data/raw/Combined_dataset.csv
 data/raw/aquaculture_data.csv
+*.pyc
+_upload_tmp.csv
